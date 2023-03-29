@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* Aquí definimos las Custom properties */
+/* Las adaptamos al modo oscuro */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --blanco: #ececec;
+    --negro: #303030;
+    --sombra-ppal: #242424;
+    --sombra-sec: #3c3c3c;
+    --borde-negro: #FFFFFF50;
+  }
+}
+
+/*# sourceMappingURL=variables.css.map */
