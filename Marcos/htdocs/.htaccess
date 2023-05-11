@@ -1,0 +1,4 @@
+DirectoryIndex controller/controller1.php
+Options -Indexes
+RewriteEngine on
+RewriteRule ^Donar/?$ controller/controller1.php?section=Donar
